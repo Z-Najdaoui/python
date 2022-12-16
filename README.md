@@ -1,2 +1,2 @@
-# python
-My projects when I'm learning python.
+# Python
+### Welcome in My projects when I'm learning python.
