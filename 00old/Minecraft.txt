@@ -1,1 +1,0 @@
-sudo java -jar /home/najdaoui/Downloads/TLauncher-2.86.jar 
